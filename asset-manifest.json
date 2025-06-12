@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Paradise_Nursery/static/css/main.36867941.css",
-    "main.js": "/Paradise_Nursery/static/js/main.12ee6800.js",
+    "main.js": "/Paradise_Nursery/static/js/main.faf08224.js",
     "static/js/453.81c3b423.chunk.js": "/Paradise_Nursery/static/js/453.81c3b423.chunk.js",
     "static/media/bostonfern.jpg": "/Paradise_Nursery/static/media/bostonfern.7ec6d53c9c6c4e240184.jpg",
     "static/media/snakeplant.jpg": "/Paradise_Nursery/static/media/snakeplant.9833c5924cbd5d329c1f.jpg",
@@ -15,11 +15,11 @@
     "static/media/spiderplant.jpg": "/Paradise_Nursery/static/media/spiderplant.210d414d771fe8e53939.jpg",
     "index.html": "/Paradise_Nursery/index.html",
     "main.36867941.css.map": "/Paradise_Nursery/static/css/main.36867941.css.map",
-    "main.12ee6800.js.map": "/Paradise_Nursery/static/js/main.12ee6800.js.map",
+    "main.faf08224.js.map": "/Paradise_Nursery/static/js/main.faf08224.js.map",
     "453.81c3b423.chunk.js.map": "/Paradise_Nursery/static/js/453.81c3b423.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36867941.css",
-    "static/js/main.12ee6800.js"
+    "static/js/main.faf08224.js"
   ]
 }
