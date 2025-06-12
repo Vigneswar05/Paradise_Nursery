@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Paradise_Nursery/static/css/main.36867941.css",
+    "main.js": "/Paradise_Nursery/static/js/main.12ee6800.js",
+    "static/js/453.81c3b423.chunk.js": "/Paradise_Nursery/static/js/453.81c3b423.chunk.js",
+    "static/media/bostonfern.jpg": "/Paradise_Nursery/static/media/bostonfern.7ec6d53c9c6c4e240184.jpg",
+    "static/media/snakeplant.jpg": "/Paradise_Nursery/static/media/snakeplant.9833c5924cbd5d329c1f.jpg",
+    "static/media/rosemary.jpg": "/Paradise_Nursery/static/media/rosemary.2b6113be815d96de7d57.jpg",
+    "static/media/rubberplant.jpg": "/Paradise_Nursery/static/media/rubberplant.0e0646ef3be1357e8df0.jpg",
+    "static/media/lavendar.jpg": "/Paradise_Nursery/static/media/lavendar.530a002cdcaf80c5e4df.jpg",
+    "static/media/bg.jpg": "/Paradise_Nursery/static/media/bg.37cc6acb0bc82faeb46d.jpg",
+    "static/media/jasmine.jpg": "/Paradise_Nursery/static/media/jasmine.22063273acb35462b855.jpg",
+    "static/media/aleovera.jpg": "/Paradise_Nursery/static/media/aleovera.276eb0f8dc0606a395b1.jpg",
+    "static/media/peacelily.jpg": "/Paradise_Nursery/static/media/peacelily.b244afe19d5e6dd63f22.jpg",
+    "static/media/spiderplant.jpg": "/Paradise_Nursery/static/media/spiderplant.210d414d771fe8e53939.jpg",
+    "index.html": "/Paradise_Nursery/index.html",
+    "main.36867941.css.map": "/Paradise_Nursery/static/css/main.36867941.css.map",
+    "main.12ee6800.js.map": "/Paradise_Nursery/static/js/main.12ee6800.js.map",
+    "453.81c3b423.chunk.js.map": "/Paradise_Nursery/static/js/453.81c3b423.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36867941.css",
+    "static/js/main.12ee6800.js"
+  ]
+}
