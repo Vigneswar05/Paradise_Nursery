@@ -10,6 +10,7 @@ function ProductList() {
   const dispatch = useDispatch();
 const cartItems = useSelector(state => state.cart.cartItems);
 const itemCount = cartItems.reduce((total, item) => total + item.quantity, 0);
+const [showCart, setShowCart] = React.useState(false);
 
 const flower = [
   {
@@ -85,7 +86,7 @@ const handleAddToCart = (flower) => {
   dispatch(addItemToCart(flower));
 };
 
-const [showCart, setShowCart] = React.useState(false);
+
 
   const handleGetStarted = () => {
     setShowCart(true);
