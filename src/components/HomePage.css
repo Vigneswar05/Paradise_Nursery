@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+  display: flex;
+  flex-direction: row;
+  background-image: url("bg.jpg");
+  background-size: cover;
+  min-height: 100vh;
+  color: white;
+  background-color: green;
+  overflow: hidden;
+  margin: 0;
+}
+.info{
+  margin-top: 30%;
+  text-align: center;
+  height: auto;
+  width: 500px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 5%;
+  font-size: larger;
+  
+  
+}
+.name{
+  margin-top: 30%;
+  justify-content: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.btn{
+
+ margin: 0;
+  border: none;
+ padding: 12px 24px;
+  font-size: 18px;          
+  border-radius: 8px;
+  background-color: green;
+  display: inline-block;
+  
+}
+

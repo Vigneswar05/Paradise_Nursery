@@ -1,0 +1,129 @@
+/* Ensure the whole header stretches horizontally and aligns its content */
+.header {
+  display: flex;
+  align-items: center;             
+  padding: 20px;
+  background-color: green;
+  gap: 695px;
+}
+.main{
+    background: none;
+    min-height: 100vh;
+    background-color: white;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.cart-button {
+  position: relative;
+  font-size: 1.8rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.cart-badge {
+  position: absolute;
+  top: -5px;
+  right: -10px;
+  background: red;
+  color: white;
+  font-size: 0.75rem;
+  padding: 2px 6px;
+  border-radius: 50%;
+}
+
+
+.logo {
+  width: 100px;
+  height: auto;
+  margin: 0;
+  border-radius: 50%;
+}
+
+h3 {
+  margin: 0;
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
+.right .btnlogo {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 30px;
+  background-color: #f9f9f9;
+  padding-left: 30px;
+}
+
+.flower-card {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  width: 200px;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+
+
+.flower-img {
+  width: 100%;
+  height: 150px;
+  object-fit:fill;
+  border-radius: 8px;
+}
+
+.price {
+  color: green;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.flower-name {
+  margin: 10px 0 5px;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.btn{
+    padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.section {
+  padding: 40px;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #2e7d32; /* optional color */
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 per row */
+  gap: 20px;
+  padding: 0 20px;
+}
+

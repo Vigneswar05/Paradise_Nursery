@@ -1,0 +1,54 @@
+.main{
+    background: none;
+    min-height: 100vh;
+    background-color: white;
+    
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 20px;
+  padding: 30px;
+  background-color: #f9f9f9;
+  padding-left: 30px;
+}
+
+.cart-item {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  width: 200px;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  object-fit: fill;
+}
+
+.btn{
+    padding: 5px 10px;
+  font-size: 1rem;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.flower-img {
+  width: auto;
+  height: 150px;
+  object-fit:fill;
+  border-radius: 8px;
+}
+
+.price {
+  color: green;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.item-name {
+  margin: 10px 0 5px;
+  font-size: 1.2rem;
+  color: #333;
+}
